@@ -173,7 +173,7 @@ Check out ---> [Sample PR](https://github.com/codedecks-in/LeetCode-Solutions/pu
 | 1221 | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)                                         | [Python](./Python/split-a-string-in-balanced-strings.py)                   | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1374 | [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Java](./Java/generate-a-string-with-characters-that-have-odd-counts.java) | _O(n)_ | _O(1)_ | Easy       |     |                 |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)                             | [Java](./Java/max-nesting-depth-parentheses.java)                          | _O(n)_ | _O(1)_ | Easy       |     |                 |
-| 1768 | [Merge Strings Alternately ] (https://leetcode.com/problems/merge-strings-alternately/)                                                         | [Python] 
+| 1768 | [Merge Strings Alternately ] (https://leetcode.com/problems/merge-strings-alternately/)                                                         | [Python]                                                                   | _O(n)_ | _O(n)_ | Easy       |      |                 |
 <br/>
 <div align="right">
     <b><a href="#algorithms">⬆️ Back to Top</a></b>
